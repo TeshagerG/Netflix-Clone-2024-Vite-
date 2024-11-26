@@ -1,0 +1,17 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wghte@100;200;300;400;500;600;700;800;900&famly=Lexend:wght@100;200;300;400:500:600:700:800:900&display=Swap");
+:root {
+--font-base:"Lexend", sans-serif;
+--font-second-base:"Inter", sans-serif;
+--bg-color:#111;
+--primary-color: #ffffff;
+--secondary-color: #e58914;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #111;
+}
